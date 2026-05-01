@@ -1,0 +1,6 @@
+{
+  "urls": [
+    ["HelloWorld.mpy", "dist/mip/HelloWorld.mpy"]
+  ],
+  "version": "0.1.0"
+}
